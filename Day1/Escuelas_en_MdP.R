@@ -42,8 +42,8 @@ fig_mapa <- ggplot() +
           fill = "transparent") +
   # Título
   annotate(
-    geom = "richtext", x =  -58.1 , y = -37.68,
-    label = "<span style='color:#04A5CB;'><b>Distribución de escuelas<br>en el Partido de<br>General Pueyrredón</b></span>",
+    geom = "richtext", x =  -58.15 , y = -37.68,
+    label = "<span style='color:#04A5CB;'><b>Distribución de instituciones<br>educativas en el Partido<br>de General Pueyrredon</b></span>",
     family = "Roboto",
     size = 6, 
     hjust = 0,
@@ -52,9 +52,9 @@ fig_mapa <- ggplot() +
   ) +
   # Subítulo
   annotate(
-    geom = "richtext", x =  -58.1 , y = -38.2,
-    label = "En el mapa se pueden ver como puntos<br>la distribución de las escuelas<br> coloreadas de acuerdo a su gestión.<br><br>
-    La distribución no es homogénea,<br>con más concentración de escuelas <span style='color:#FE9D02;'><b>privadas</b></span><br>
+    geom = "richtext", x =  -58.15 , y = -38.2,
+    label = "En el mapa se pueden ver como puntos<br>la distribución de las instituciones<br>educativas coloreadas de acuerdo a su gestión.<br><br>
+    La distribución no es homogénea,<br>con más concentración de inst. ed. <span style='color:#FE9D02;'><b>privadas</b></span><br>
     en la zona céntrica y más escuelas <span style='color: #A9BE33;'><b>municipales</b></span><br> y <span style='color: #04ADC3;'><b>provinciales</b></span> en la zona periférica de la ciudad<br>de <b>Mar del Plata</b>. ",
     family = "Roboto",
     size = 2.7, 
