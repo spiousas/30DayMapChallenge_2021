@@ -19,3 +19,9 @@ here](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas
 Arroyos del Partido de General Pueyrredon.
 <img src="./Day2/Arroyos_MGP.png" width="100%" /> [Code
 here](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos.R)
+
+## Día 2: Polígonos
+
+Arroyos del Partido de General Pueyrredon.
+<img src="./Day3/Radios_censales_MGP.png" width="100%" /> [Code
+here](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales.R)
