@@ -25,26 +25,42 @@ options(tibble.print_min = 5, tibble.print_max = 5)
 
 Mi nombres es Ignacio Spiousas y en esta edición me propongo hacer 30 mapas utilizando los datos abiertos del Municipio de General Pueyrredon (Buenos Aires, Argentina), tratando de que cada mapa tenga un mensaje claro y consiso sobre Mar del Plata y su zona.
 
-## Día 1: Puntos
+### Día 1: Puntos
 
-Establecimientos educativos en el Partido de General Pueyrredon.
-```{r, echo = FALSE}
+Establecimientos educativos en el Partido de General Pueyrredon. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_en_MdP.R)
+
+```{r, echo = FALSE, out.width="50%"}
 include_graphics("./Day1/Escuelas_MGP.png")
 ```
-[Code here](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_en_MdP.R)
 
-## Día 2: Líneas
+[Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_MGP.png)
 
-Arroyos del Partido de General Pueyrredon.
-```{r, echo = FALSE}
+### Día 2: Líneas
+
+Arroyos del Partido de General Pueyrredon. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos.R)
+
+```{r, echo = FALSE, out.width="50%"}
 include_graphics("./Day2/Arroyos_MGP.png")
 ```
-[Code here](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos.R)
 
-## Día 2: Polígonos
+[Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos_MGP.png)
 
-Arroyos del Partido de General Pueyrredon.
-```{r, echo = FALSE}
+### Día 3: Polígonos
+
+Arroyos del Partido de General Pueyrredon. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales.R)
+
+```{r, echo = FALSE, out.width="50%"}
 include_graphics("./Day3/Radios_censales_MGP.png")
 ```
-[Code here](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales.R)
+
+[Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales_MGP.png)
+
+### Día 4: Hexágonos
+
+Luminarias de la ciudad de Mar del Plata por tipo. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.R)
+
+```{r, echo = FALSE, out.width="50%"}
+include_graphics("./Day4/Luminarias_MdP.png")
+```
+
+[Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.png)
