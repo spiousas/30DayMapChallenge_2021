@@ -48,8 +48,8 @@ fig_mapa <- ggplot() +
 
 # Tibble con el texto
 text.df <- tibble(
-  label = c("Las lámparas <b>SAP</b> (sodio) son las más utilizadas en el alumbrado público urbano pero están siendo reempladas por lámparas de <b>LED</b> que tienen una eficiencia luminosa cerca de un 50% superior.<br><br>Por otro lado, las lámparas <b>HQT</b> (mercurio) pertenecen al igual que las <b>SAP</b> a la familia de las lámparas de descarga y son contaminantes ya que contienen mercurio..",
-            glue("En <span style='color:#04A5CB;'><b>Mar del Plata</span></b> hay {nrow(luces[luces$tipo_luminaria=='SAP',])} luminarias <b>SAP</b>, {nrow(luces[luces$tipo_luminaria=='LED',])} luminarias <b>LED</b> y {nrow(luces[luces$tipo_luminaria=='HQT',])} luminarias <b>HQT</b>.<br><br>Si bien ya se ha comenzado a renovar las luminarias, la mayoría de las luminarias <b>LED</b> aún se concentran en arterias principales (la costa, Av. Constitución, Av. Juan B. Justo y Av. Independencia) y el centro de la ciudad.")),
+  label = c("Las lámparas <b>SAP</b> (sodio) son las más utilizadas en el alumbrado público urbano pero están siendo reempladas por lámparas <b>LED</b> que tienen una eficiencia luminosa cerca de un 50% superior.<br><br>Por otro lado, las lámparas <b>HQT</b> pertenecen, al igual que las <b>SAP</b>, a la familia de las de descarga y son contaminantes ya que contienen mercurio.",
+            glue("En <span style='color:#04A5CB;'><b>Mar del Plata</span></b> hay {nrow(luces[luces$tipo_luminaria=='SAP',])} luminarias <b>SAP</b>, {nrow(luces[luces$tipo_luminaria=='LED',])} luminarias <b>LED</b> y {nrow(luces[luces$tipo_luminaria=='HQT',])} luminarias <b>HQT</b>.<br><br>Si bien ya se ha comenzado a renovar las luminarias, la mayoría de las <b>LED</b> aún se concentran en algunas arterias principales (la costa, Av. Constitución, Av. Juan B. Justo y Av. Independencia) y el centro de la ciudad.")),
   x = c(0, 12),
   y = c(0, 0),
   hjust = c(0, 1),
