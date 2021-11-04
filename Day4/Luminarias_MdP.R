@@ -101,3 +101,4 @@ fig_text / fig_mapa  +
 
 # Guardo la figura
 ggsave(here("./Day4/Luminarias_MdP.png"), width = 30, height = 20, units = "cm", dpi = 300)
+
