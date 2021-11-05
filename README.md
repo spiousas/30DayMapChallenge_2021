@@ -8,7 +8,7 @@ mapas utilizando los datos abiertos del Municipio de General Pueyrredon
 (Buenos Aires, Argentina), tratando de que cada mapa tenga un mensaje
 claro y consiso sobre Mar del Plata y su zona.
 
-### Día 1: Puntos
+### Día 1 - Puntos
 
 Establecimientos educativos en el Partido de General Pueyrredon. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_en_MdP.R)
@@ -18,7 +18,7 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuela
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_MGP.png)
 
-### Día 2: Líneas
+### Día 2 - Líneas
 
 Arroyos del Partido de General Pueyrredon. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos.R)
@@ -28,7 +28,7 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos_MGP.png)
 
-### Día 3: Polígonos
+### Día 3 - Polígonos
 
 Arroyos del Partido de General Pueyrredon. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales.R)
@@ -38,7 +38,7 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales_MGP.png)
 
-### Día 4: Hexágonos
+### Día 4 - Hexágonos
 
 Luminarias de la ciudad de Mar del Plata por tipo. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.R)
@@ -47,3 +47,13 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminar
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.png)
+
+### Día 5 - Data challenge 1: OpenStreetMap
+
+Luminarias de la ciudad de Mar del Plata por tipo. [Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.R)
+
+<img src="./Day5/OSM.png" width="50%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.png)
