@@ -50,7 +50,8 @@ size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminari
 
 ### Día 5 - Data challenge 1: OpenStreetMap
 
-Luminarias de la ciudad de Mar del Plata por tipo. [Code
+Rstaurantes, heladerías y bares de la ciudad de Mar del Plata de acuerdo
+a Open Street Maps. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.R)
 
 <img src="./Day5/OSM.png" width="50%" />
