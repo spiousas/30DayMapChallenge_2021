@@ -50,11 +50,21 @@ size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminari
 
 ### Día 5 - Data challenge 1: OpenStreetMap
 
-Rstaurantes, heladerías y bares de la ciudad de Mar del Plata de acuerdo
-a Open Street Maps. [Code
+Restaurantes, heladerías y bares de la ciudad de Mar del Plata de
+acuerdo a Open Street Maps. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.R)
 
 <img src="./Day5/OSM.png" width="50%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.png)
+
+### Días 6, 7 y 8 - Rojo, Verde y Azul
+
+Recorridos de las líneas de colectivo de Mar del Plata por color. [Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.R)
+
+<img src="./Day6-7-8/MdP_bus.png" width="50%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.png)
