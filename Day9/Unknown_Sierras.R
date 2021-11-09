@@ -52,4 +52,4 @@ for(g in unique(dem.df$lat)){
 }
 
 # Guardo la figura
-ggsave(here("./Day9/Unknown_sierras.png"), width = 7, height = 10, dpi = 300)
+ggsave(here("./Day9/Unknown_Sierras.png"), width = 7, height = 10, dpi = 300)
