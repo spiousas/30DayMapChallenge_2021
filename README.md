@@ -68,3 +68,14 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.png)
+
+### Días 9 - Monocromático
+
+Elevación de Sierra de los Padres inspirado en la tapa del disco de Joy
+Division Unknown Pleasures. [Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.R)
+
+<img src="./Day9/Unknown_Sierras.png" width="50%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.png)
