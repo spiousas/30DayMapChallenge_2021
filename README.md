@@ -79,3 +79,14 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.png)
+
+### Días 10 - Raster
+
+Elevación de Playa Grande y Cabo Corrientes con estética **Vaporwave**.
+[Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.R)
+
+<img src="./Day10/MardelVaporwave.png" width="50%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.png)
