@@ -29,7 +29,7 @@ Mi nombres es Ignacio Spiousas y en esta edición me propongo hacer 30 mapas uti
 
 Establecimientos educativos en el Partido de General Pueyrredon. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_en_MdP.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day1/Escuelas_MGP.png")
 ```
 
@@ -39,7 +39,7 @@ include_graphics("./Day1/Escuelas_MGP.png")
 
 Arroyos del Partido de General Pueyrredon. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day2/Arroyos_MGP.png")
 ```
 
@@ -49,7 +49,7 @@ include_graphics("./Day2/Arroyos_MGP.png")
 
 Arroyos del Partido de General Pueyrredon. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day3/Radios_censales_MGP.png")
 ```
 
@@ -59,7 +59,7 @@ include_graphics("./Day3/Radios_censales_MGP.png")
 
 Luminarias de la ciudad de Mar del Plata por tipo. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day4/Luminarias_MdP.png")
 ```
 
@@ -70,7 +70,7 @@ include_graphics("./Day4/Luminarias_MdP.png")
 
 Restaurantes, heladerías y bares de la ciudad de Mar del Plata de acuerdo a Open Street Maps. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day5/OSM.png")
 ```
 
@@ -80,28 +80,48 @@ include_graphics("./Day5/OSM.png")
 
 Recorridos de las líneas de colectivo de Mar del Plata por color. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day6-7-8/MdP_bus.png")
 ```
 
 [Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.png)
 
-### Días 9 - Monocromático
+### Día 9 - Monocromático
 
 Elevación de Sierra de los Padres inspirado en la tapa del Unknown Pleasures de Joy Division. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day9/Unknown_Sierras.png")
 ```
 
 [Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.png)
 
-### Días 10 - Raster
+### Día 10 - Raster
 
 Elevación de Playa Grande y Cabo Corrientes con estética **Vaporwave**. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.R)
 
-```{r, echo = FALSE, out.width="50%"}
+```{r, echo = FALSE, out.width="60%"}
 include_graphics("./Day10/MardelVaporwave.png")
 ```
 
 [Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.png)
+
+### Días 11 - 3D
+
+La densidad de población por fracción censal del MGP en 3D. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblacion3D.R)
+
+```{r, echo = FALSE, out.width="60%"}
+include_graphics("./Day11/Poblacion3D.png")
+```
+
+[Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblacion3D.png)
+
+### Días 11 - Población
+
+La densidad de población por fracción censal del MGP en 2D. [Code here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblacion2D.R)
+
+```{r, echo = FALSE, out.width="60%"}
+include_graphics("./Day12/Poblacion2D.png")
+```
+
+[Full size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblacion2D.png)

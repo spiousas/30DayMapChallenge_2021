@@ -13,7 +13,7 @@ claro y consiso sobre Mar del Plata y su zona.
 Establecimientos educativos en el Partido de General Pueyrredon. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_en_MdP.R)
 
-<img src="./Day1/Escuelas_MGP.png" width="50%" />
+<img src="./Day1/Escuelas_MGP.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas_MGP.png)
@@ -23,7 +23,7 @@ size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day1/Escuelas
 Arroyos del Partido de General Pueyrredon. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos.R)
 
-<img src="./Day2/Arroyos_MGP.png" width="50%" />
+<img src="./Day2/Arroyos_MGP.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos_MGP.png)
@@ -33,7 +33,7 @@ size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day2/Arroyos_
 Arroyos del Partido de General Pueyrredon. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales.R)
 
-<img src="./Day3/Radios_censales_MGP.png" width="50%" />
+<img src="./Day3/Radios_censales_MGP.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_censales_MGP.png)
@@ -43,7 +43,7 @@ size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day3/Radios_c
 Luminarias de la ciudad de Mar del Plata por tipo. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.R)
 
-<img src="./Day4/Luminarias_MdP.png" width="50%" />
+<img src="./Day4/Luminarias_MdP.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day4/Luminarias_MdP.png)
@@ -54,7 +54,7 @@ Restaurantes, heladerías y bares de la ciudad de Mar del Plata de
 acuerdo a Open Street Maps. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.R)
 
-<img src="./Day5/OSM.png" width="50%" />
+<img src="./Day5/OSM.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.png)
@@ -64,29 +64,49 @@ size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day5/OSM.png)
 Recorridos de las líneas de colectivo de Mar del Plata por color. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.R)
 
-<img src="./Day6-7-8/MdP_bus.png" width="50%" />
+<img src="./Day6-7-8/MdP_bus.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day6-7-8/MDP_bus.png)
 
-### Días 9 - Monocromático
+### Día 9 - Monocromático
 
 Elevación de Sierra de los Padres inspirado en la tapa del Unknown
 Pleasures de Joy Division. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.R)
 
-<img src="./Day9/Unknown_Sierras.png" width="50%" />
+<img src="./Day9/Unknown_Sierras.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day9/Unknown_Sierras.png)
 
-### Días 10 - Raster
+### Día 10 - Raster
 
 Elevación de Playa Grande y Cabo Corrientes con estética **Vaporwave**.
 [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.R)
 
-<img src="./Day10/MardelVaporwave.png" width="50%" />
+<img src="./Day10/MardelVaporwave.png" width="60%" />
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.png)
+
+### Días 11 - 3D
+
+La densidad de población por fracción censal del MGP en 3D. [Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblacion3D.R)
+
+<img src="./Day11/Poblacion3D.png" width="60%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblacion3D.png)
+
+### Días 11 - Población
+
+La densidad de población por fracción censal del MGP en 2D. [Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblacion2D.R)
+
+<img src="./Day12/Poblacion2D.png" width="60%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblacion2D.png)
