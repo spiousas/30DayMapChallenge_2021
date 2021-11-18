@@ -91,7 +91,7 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/Mardel
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day10/MardelVaporwave.png)
 
-### Días 11 - 3D
+### Día 11 - 3D
 
 La densidad de población por fracción censal del MGP en 3D. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblacion3D.R)
@@ -101,7 +101,7 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblac
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day11/Poblacion3D.png)
 
-### Días 11 - Población
+### Día 12 - Población
 
 La densidad de población por fracción censal del MGP en 2D. [Code
 here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblacion2D.R)
@@ -110,3 +110,14 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblac
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day12/Poblacion2D.png)
+
+### Día 14 - Mapa con una nueva herramienta
+
+Choropleth con la cantidad de farmacias por fracción censal en la zona
+céntrica de Mar del Plata utilizando 📦**{maps\_sf}**. [Code
+here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day14/Farmacias.R)
+
+<img src="./Day14/Farmacias.png" width="60%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day14/Farmacias.png)
