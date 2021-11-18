@@ -121,3 +121,13 @@ here!](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day14/Farmac
 
 [Full
 size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day14/Farmacias.png)
+
+#### Extra
+
+En ugar de la cantidad de farmacias hago un choropleth con la densidad
+(farmacias por km. cuadrado).
+
+<img src="./Day14/Farmacias_densidad.png" width="60%" />
+
+[Full
+size](https://github.com/spiousas/30DayMapChallenge_2021/blob/main/Day14/Farmacias_densidad.png)

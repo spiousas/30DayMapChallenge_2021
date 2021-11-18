@@ -27,7 +27,8 @@ farmacias_por_fraccion_tbl <- count(as_tibble(farmacias_por_fraccion), fraccion,
 # Join de geometrías y cantidad de farmacias
 fracciones <- fracciones %>%
   left_join(farmacias_por_fraccion_tbl, by = "fraccion") %>%
-  mutate(farmacias_por_fraccion = replace_na(farmacias_por_fraccion, 0))
+  mutate(farmacias_por_fraccion = replace_na(farmacias_por_fraccion, 0),
+         densidad_farmacias_por_fraccion = (farmacias_por_fraccion/shape_area)*1e6)
 
 # La figura ####
 # El tema
@@ -71,6 +72,57 @@ mf_arrow(pos = "topleft")
 
 # El título
 mf_title("Farmacias por fracción censal")
+
+# El caption
+mf_credits("@spiousas",
+           pos = "bottomleft",
+           col = "black")
+
+#Cierro la exportación
+dev.off()
+
+# La figura densidad ####
+# El tema
+mf_theme("agolalight")
+
+# Inicio la exportación
+mf_export(x = fracciones[62, ], expandBB = c(10,5,5,5),
+          res = 300,  width = 1800,
+          filename = here("./Day14/Farmacias_densidad.png"))
+
+## This part is redundant with the mf_export settings, I'va transferred the
+# mf_init settings to mf_export directly
+# Inicio con zoom centrado en la fraccion que contiene a la Municipalidad
+# mf_init(x = fracciones[62, ], expandBB = c(10,5,5,5))
+
+# Inicio el mapa
+mf_map(x = fracciones,
+       border = "white", add = TRUE)
+
+# El choroplet de las farmacias
+mf_map(x = fracciones, type = "choro",
+       var = "densidad_farmacias_por_fraccion",
+       leg_title = "# de farmacias por km2",
+       leg_pos = "topright",
+       add = TRUE,
+       border = "white",
+       pal = "Dark Mint")
+
+# El mapita del mundo
+mf_inset_on(x = "worldmap",
+            pos = "right",
+            cex = .1)
+mf_worldmap(fracciones)
+mf_inset_off()
+
+# La escala
+mf_scale(pos = "bottomright")
+
+# La flecha
+mf_arrow(pos = "topleft")
+
+# El título
+mf_title("Densidad de farmacias por fracción censal")
 
 # El caption
 mf_credits("@spiousas",
